@@ -1,6 +1,6 @@
 {
   "name": "ninsho-module-secure",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "security-related module used on ninsho.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ninsho/ninsho-module-secure/",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "ninsho-base": "^0.0.0",
+    "ninsho-base": "^0.0.6",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
